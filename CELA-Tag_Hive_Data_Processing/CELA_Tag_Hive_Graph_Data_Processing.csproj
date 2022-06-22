@@ -12,7 +12,7 @@
     <PackageReference Include="Gremlin.Net" Version="3.4.0" />
     <PackageReference Include="Microsoft.Azure.CosmosDB.BulkExecutor" Version="1.4.0" />
     <PackageReference Include="Microsoft.CSharp" Version="4.5.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
   </ItemGroup>
 
